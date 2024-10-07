@@ -1,6 +1,6 @@
 # Oracle-Inspired ERP System
 
-This project implements a comprehensive Enterprise Resource Planning (ERP) system inspired by Oracle's functionalities. It is built using Java and PostgreSQL JDBC to interact with a relational database (PostgreSQL). The system provides modules for managing various aspects of a business, including Finance, Supply Chain, Manufacturing, Customer Relationship, and Human Capital.
+This project implements a comprehensive Enterprise Resource Planning (ERP) system inspired by Oracle's functionalities. It is built using Java and PostgreSQL JDBC to interact with a relational database (PostgreSQL) hosted on Supabase. The system provides modules for managing various aspects of a business, including Finance, Supply Chain, Manufacturing, Customer Relationship, and Human Capital.
 
 ## Table of Contents
 
