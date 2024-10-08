@@ -382,6 +382,8 @@ class SupplyChainManagement {
     public static void updateOrderStatus(Connection conn, Scanner scanner) {
         System.out.print("Enter order ID: ");
         int orderId = scanner.nextInt();
+	// Added to consume the leftover newline
+	scanner.nextLine();
         System.out.print("Enter new status (Pending, Processing, Shipped): ");
         OrderStatus newStatus = OrderStatus.valueOf(scanner.nextLine().toUpperCase()); 
 
