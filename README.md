@@ -20,6 +20,7 @@ This project implements a comprehensive Enterprise Resource Planning (ERP) syste
 - [Setup](#setup)
 - [Running the Application from Eclipse](#running-the-application-from-eclipse)
 - [Usage](#usage)
+- [Video](#video)
 
 ## Introduction
 
@@ -670,3 +671,7 @@ When you run as a Maven build with the `exec:java` goal, Eclipse uses the `exec-
   - Enter the number corresponding to the desired action and press Enter to proceed. The system will guide you through the steps for each operation.
 
 - **Logout:** When finished, choose the logout option to securely exit the system.
+
+## Video
+
+[Demo Video](https://youtu.be/0vY5uToqJqE)
